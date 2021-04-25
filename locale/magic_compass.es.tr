@@ -1,0 +1,25 @@
+# version 1.3.0
+# author(s): Dragonop
+# reviewer(s):
+# textdomain: magic_compass
+
+# items.lua
+Magic Compass=Brújula Mágica
+
+# player_manager.lua
+[!] This location is not available for you at the moment!=[!] ¡Esta ubicación no está disponible para ti en este momento!
+[!] You can't reteleport to this location so quickly! (seconds remaining: @1)=[!] ¡No puedes reteletransportarte a esta ubicación tan rápido! (segundos restantes: @1)
+
+
+
+# personalizzazione
+
+# config.txt
+# What would you like to play?=
+
+# /locations
+# SUMO - push 'em down!=
+# SKYWARS - fight, build and don't fall down!=
+# PARKOUR - climb the Tower of Gods=
+# MURDER - trust no one=
+Main square=Plaza principal

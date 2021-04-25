@@ -1,0 +1,3 @@
+WORMBALL - the classic snake became a worm: nom nom
+magiccompass_wormball.png
+-47, 22, 50

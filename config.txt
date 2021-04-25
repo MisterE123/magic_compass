@@ -1,0 +1,11 @@
+menu_title =You can change title and bg in config.txt!
+
+# you can add as many backgrounds/rows as you want, but be sure to edit load_config.lua too if you do so (EMPTY LINES ARE NOT COUNTED)
+menu_gui_bg_2rows =magiccompass_gui_bg_test2.png
+menu_gui_bg_4rows =magiccompass_gui_bg_test4.png
+menu_gui_bg_6rows =magiccompass_gui_bg_test6.png
+
+menu_gui_button_bg =magiccompass_gui_button_bg.png
+
+
+

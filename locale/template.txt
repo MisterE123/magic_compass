@@ -1,0 +1,29 @@
+# version 1.4.0-dev
+# author(s):
+# reviewer(s):
+# textdomain: magic_compass
+
+# items.lua
+Magic Compass=
+
+# player_manager.lua
+[!] This location is not available for you at the moment!=
+[!] You can't reteleport to this location so quickly! (seconds remaining: @1)=
+
+# SETTINGS.lua
+What do you want to play today?=
+
+
+
+# personalizzazione
+
+# config.txt
+What would you like to play?=
+
+# /locations
+SUMO - push 'em down!=
+SKYWARS - fight, build and don't fall down!=
+PARKOUR - climb the Tower of Gods=
+MURDER - trust no one=
+WORMBALL - the classic snake became a worm: nom nom=
+Main square=

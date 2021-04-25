@@ -1,0 +1,3 @@
+Main square
+magiccompass_spawn.png
+6.0, 33.0, 170.0

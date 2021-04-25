@@ -1,0 +1,3 @@
+SUMO - push 'em down!
+magiccompass_sumo.png
+-70,24,101

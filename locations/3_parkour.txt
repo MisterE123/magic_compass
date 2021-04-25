@@ -1,0 +1,3 @@
+PARKOUR - climb the Tower of Gods
+magiccompass_parkour.png
+6.0, 23.0, 87.0

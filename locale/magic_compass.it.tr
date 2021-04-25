@@ -1,0 +1,27 @@
+# version 1.4.0-dev
+# author(s): Zughy
+# reviewer(s):
+# textdomain: magic_compass
+
+# items.lua
+Magic Compass=Bussola Magica
+
+# player_manager.lua
+[!] This location is not available for you at the moment!=[!] Non ti è consentito l'accesso a questo luogo ora!
+[!] You can't reteleport to this location so quickly! (seconds remaining: @1)=[!] Non puoi ritelerasportarti in questo luogo così velocemente! (secondi rimanenti: @1)
+
+# SETTINGS.lua
+What do you want to play today?=A cosa vuoi giocare oggi?
+
+# personalizzazione
+
+# config.txt
+What would you like to play?=A cosa vorresti giocare?
+
+# /locations
+SUMO - push 'em down!=SUMO - spingili giù!
+SKYWARS - fight, build and don't fall down!=SKYWARS - combatti, costruisci e non cadere giù!
+PARKOUR - climb the Tower of Gods=PARKOUR - scala la Torre degli Dèi
+MURDER - trust no one=MURDER - non fidarti di nessuno
+WORMBALL - the classic snake became a worm: nom nom=WORMBALL - il classico serpentello è diventato un verme: nom nom
+Main square=Piazza principale
